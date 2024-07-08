@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-- 🌱 I’m currently learning Robot Framework.
+- 🌱 I’m currently improving my Robot Framework + Selenium skills.
 - 👯 I’m looking to collaborate on test projects and designing test scenarios.
 - 📫 Reach out to me on my [LinkedIn](https://www.linkedin.com/in/vieirafernando2023/) page!
 
