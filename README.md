@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-- 🌱 I’m currently improving my Automation skills. Started looking after mobile now
+- 🌱 Always Improving!
 - 👯 I’m looking to work on a company to collaborate on test projects and designing test scenarios.
 - 📫 Reach out to me on my [LinkedIn](https://www.linkedin.com/in/vieirafernando2023/) page!
 
